@@ -1,0 +1,20 @@
+Note : VPC is on region level, whereas subnet is on availability zone level
+
+192.168.0.0/16  -  IPV4 CIDR block for VPC
+192.168.0.0. - 192.168.255.255
+
+network 1:
+192.168.1.0 - 192.168.1.255
+192.168.1.0/24   -->   IPV4 subnet1 CIDR block
+
+Network 2 - 
+192.168.2.0-192.168.2.255
+192.168.2.0/24
+
+Network 3 -
+192.168.3.0 - 192.168.3.225
+192.168.3.0/24
+
+subnet 4:
+192.168.4.0 - 192.168.3.225
+192.168.4.0/24 
