@@ -1,0 +1,18 @@
+==== Security ===
+1. KMS
+2. WAF
+3. secret Manager
+
+=== Migrate on-prem to AWS ===
+1. AWS direct connect or VPN
+2. Transit gateway
+3. VPC peering
+4. AWS application migration service
+5. Database Migration Service
+6. Migration Hub
+6. AWS storage gateway
+
+=== Audit/Logging and Compliance ===
+1. CloudTrail
+2. Config
+3. Control Tower or Organisation

@@ -1,0 +1,8 @@
+php installation steps :
+https://docs.aws.amazon.com/linux/al2/ug/ec2-lamp-amazon-linux-2.html
+
+youtube video link for deploying 3 tier web app in aws
+https://www.youtube.com/watch?v=sCBTeMd0Jj4
+
+# sudo ssh -i "Devops-key.pem" ec2-user@172.20.4.180
+# sudo ssh -i "Devops-key.pem" ec2-user@172.20.5.9
